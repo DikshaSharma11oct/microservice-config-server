@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: CONFIG-SERVER-PPRODUCTION
 eureka:
   client:
     serviceUrl:
